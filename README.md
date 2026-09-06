@@ -25,12 +25,8 @@ Medical Vision-Language Models (VLMs) have demonstrated remarkable capabilities 
 
 **I²-Med** is a **training-free, inference-time framework** that improves the interpretability of medical VLMs through **Visual-Guided Dynamic Logits Calibration**. Rather than fine-tuning the underlying VLM, I²-Med dynamically adjusts token logits during decoding based on visual grounding, resulting in more faithful reasoning and reduced hallucinations while preserving the original model parameters.
 
-<p align="center">
-<img src="assets/Architecture.png" width="900">
-</p>
-<p align="center">
-  <b>Fig.:</b> Overview of Proposed I<sup>2</sup>-Med Model.
-</p>
+[DLC_FRAMEWORK.pdf](https://github.com/user-attachments/files/31880494/DLC_FRAMEWORK.pdf)
+
 
 ---
 
